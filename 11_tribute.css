@@ -1,0 +1,49 @@
+html {
+    font-size: 14px;
+}
+
+body {
+    font-family: "Unitology (Dead Space)", Verdana, sans-serif, arial;
+    text-align: center;
+    color: inherit;
+    background-color: #FA4638;
+    margin: 0;
+}
+
+h1 {
+    font-size: 4rem;
+    margin-bottom: 0;
+}
+
+footer {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+ul {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: justify;
+    line-height: 1.2;
+}
+
+li {
+    margin: 14px 0;
+}
+
+#main {
+    margin: 14px 4px;
+    padding: 10px;
+    border-radius: 10px;
+    background: #777777;
+}
+
+a {
+    color: #dddddd;
+}
